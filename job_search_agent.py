@@ -90,7 +90,7 @@ TARGET_KEYWORDS = [
 TARGET_LOCATIONS = [
     "Remote", "Boston, MA", "San Francisco, CA",
     "New York, NY", "Seattle, WA", "Sunnyvale, CA",
-]
+]   
 
 DAYS_POSTED = 7
 MAX_RESULTS = 20
