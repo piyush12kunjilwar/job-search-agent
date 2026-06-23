@@ -47,7 +47,7 @@ Applied ML Software Engineer (Co-op) | Jan 2025 - Dec 2025
 - Optimized inter-node coordination by tuning NCCL parameters and implementing gradient accumulation, reducing fine-tuning cost and latency by 40%
 - Developed rigorous evaluation pipelines using synthetic data to stress-test model reasoning, identifying hallucination issues before production
 
-Accenture — India
+Accenture — India   
 AI Solutions Developer | Sep 2022 - Aug 2023
 - Built real-time event-driven microservices using Kafka and WebSockets for a platform serving 1M+ users
 - Optimized consumer group configurations achieving sub-200ms latency with 99.9% system availability
