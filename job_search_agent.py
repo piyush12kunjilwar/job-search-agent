@@ -162,7 +162,7 @@ def score_job(job):
         if kw in text: score -= 25
     if is_startup_role(text): score += 15
     salary_max = job.get("salary_max", 0) or 0
-    if salary_max > 200000: score += 20
+    if salary_max > 200000: score += 20   
     elif salary_max > 150000: score += 10
     elif salary_max > 120000: score += 5
     created = job.get("date_posted", "")
