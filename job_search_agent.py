@@ -58,7 +58,7 @@ ML Engineering Intern | Jan 2022 - Aug 2022
 - Built PySpark pipelines on AWS EMR processing 100GB/day of raw vehicle telemetry for predictive maintenance
 - Diagnosed and resolved throughput bottleneck on 1TB+ PostgreSQL cluster, reducing query time by 50%
 - Containerized ML inference services using Docker on GCP Compute Engine, reducing inference latency by 32%
-
+   
 KEY PROJECTS
 
 Inference Optimization for NLP (Dream Insight AI)
