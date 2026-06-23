@@ -148,7 +148,7 @@ def should_include(job):
     return True
 
 def score_job(job):
-    score = 0
+    score = 0    
     text = (job.get("title", "") + " " + job.get("description", "")).lower()
     medium_value = ["machine learning", "deep learning", "nlp", "python",
                     "tensorflow", "kubernetes", "docker", "aws", "gcp"]
