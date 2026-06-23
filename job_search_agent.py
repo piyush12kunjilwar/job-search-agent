@@ -38,7 +38,7 @@ Machine Learning: PyTorch (FSDP, DDP), TensorFlow (MirroredStrategy), NCCL, CUDA
 Cloud & Infrastructure: AWS (EC2, Lambda, S3, EMR), Docker, Kubernetes, Kafka, Jenkins, GitLab CI/CD
 Concepts: Distributed Training (Multi-Node), Agentic Workflows, Model Profiling, RAG, Inference Optimization (Quantization), System Design
 
-PROFESSIONAL EXPERIENCE
+PROFESSIONAL EXPERIENCE  
 
 CareerGPT — Remote
 Applied ML Software Engineer (Co-op) | Jan 2025 - Dec 2025
