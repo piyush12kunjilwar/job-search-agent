@@ -168,7 +168,7 @@ def score_job(job):
     created = job.get("date_posted", "")
     if created:
         try:
-            if "T" in created:
+            if "T" in created:   
                 posted_date = datetime.fromisoformat(created.replace("Z", "+00:00"))
             else:
                 posted_date = datetime.strptime(created, "%Y-%m-%d").replace(tzinfo=timezone.utc)
