@@ -6,7 +6,7 @@ Filters: 0-4 years experience | Startups always included
 Generates: Tailored resume + cover letter for top 15 jobs via Claude API
 """
 
-import requests
+import requests  
 import smtplib
 import os
 import xml.etree.ElementTree as ET
