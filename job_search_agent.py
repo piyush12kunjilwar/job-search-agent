@@ -9,7 +9,7 @@ Generates: Tailored resume + cover letter for top 15 jobs via Claude API
 import requests  
 import smtplib
 import os   
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ET  
 from datetime import datetime, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
