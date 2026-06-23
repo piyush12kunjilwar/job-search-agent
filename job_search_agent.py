@@ -176,7 +176,7 @@ def score_job(job):
             if days_ago <= 2: score += 15
             elif days_ago <= 5: score += 8
         except: pass
-    return max(0, min(100, score))
+    return max(0, min(100, score))   
 
 def deduplicate(jobs):
     seen = set()
