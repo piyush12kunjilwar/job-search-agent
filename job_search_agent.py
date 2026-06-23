@@ -116,7 +116,7 @@ STARTUP_SIGNALS = [
     "founding engineer", "founding member", "stealth", "pre-ipo",
     "yc ", "y combinator", "techstars", "venture", "early-stage",
     "0 to 1", "0-to-1",
-]
+]   
 
 HIGH_VALUE_KEYWORDS = [
     "pytorch", "llm", "rlhf", "fsdp", "agentic", "distributed training",   
