@@ -209,7 +209,7 @@ def normalize_job(title, company, location, description, url, date_posted, sourc
 
 def search_adzuna():
     print("\n[1/6] Searching Adzuna API...")
-    app_id = os.getenv("ADZUNA_APP_ID")
+    app_id = os.getenv("ADZUNA_APP_ID")   
     app_key = os.getenv("ADZUNA_APP_KEY")
     if not app_id or not app_key:
         print("  No Adzuna credentials — skipping")
