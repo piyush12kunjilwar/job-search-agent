@@ -155,7 +155,7 @@ def score_job(job):
     hard_negative = ["computer vision only", "ros ", "embedded systems",
                      "fpga", "robotics perception", "self-driving only"]
     for kw in HIGH_VALUE_KEYWORDS:
-        if kw in text: score += 15
+        if kw in text: score += 15   
     for kw in medium_value:
         if kw in text: score += 5
     for kw in hard_negative:
